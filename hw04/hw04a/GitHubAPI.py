@@ -15,7 +15,7 @@ def get_commit_count(github_id, repo_name):
         commits = commitResponse.json()
         return len(commits)
     else:
-        print(f"Failed to fetch commits for repository '{repo_name}'. Status code: {response.status_code}")
+        print(f"Failed to fetch commits for repository '{repo_name}'. Status code: {commitResponse.status_code}")
         return 0
 
 def get_repos(github_id):
