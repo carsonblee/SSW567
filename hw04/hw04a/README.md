@@ -1,5 +1,5 @@
 # HW4a: GitHub API
-![CircleCI](https://circleci.com/gh/carsonblee/SSW567/tree/main.svg?style=shield)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/YBMEBAqhQKNrvTPDbdRbap/Uzcx6xoX9zwJYNYQd7TPgS/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/YBMEBAqhQKNrvTPDbdRbap/Uzcx6xoX9zwJYNYQd7TPgS/tree/main)
 
 # Assignment
 The assignment was to write code to interface with an external REST-based APIs, in this case, GitHub. The goal for the assignment was to request a user's GitHub ID as the input and print their repositories and the corresponding number of commmits each repo had.
