@@ -13,4 +13,7 @@ Script to classify triangles into the three types: equilateral, isosceles, and s
 ### hw04
 **hw04a:** GitHub API
 
-**hw04b:** Static Code Analysis
+**hw04b:** Static Code Testing
+
+**hw04c:** External Dependencies Isolation - Mocking
+See HW04c_Mocking branch
