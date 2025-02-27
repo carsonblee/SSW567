@@ -18,13 +18,16 @@ jobs:
     steps:
       # Checkout the code as the first step.
       - checkout
+      - python/install-packages:
+          pkg-manager: pip
+
       - run:
           name: Say Hello
           command: echo "Hello world!"
 
       - run:
           name: Run tests
-          command: pytest
+          command: pythom -m unittest
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/workflows/ & https://circleci.com/docs/configuration-reference/#workflows
