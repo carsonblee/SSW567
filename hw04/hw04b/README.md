@@ -86,5 +86,5 @@ Note that nothing was changed in `triangleClassification.py` and `triangle_class
 ## Screenshots
 |       | Before           | After |
 | ------------- |:-------------:| -----:|
-| Static Analysis      | right-aligned | $1600 |
-| Code Coverage      | centered      |   $12 |
+| Static Analysis      | ![Before Static Analysis](https://github.com/carsonblee/SSW567/blob/main/hw04/hw04b/Before/StaticAnalysisBefore.png) | ![After Static Analysis](https://github.com/carsonblee/SSW567/blob/main/hw04/hw04b/After/StaticAnalysisAfter.png) |
+| Code Coverage      | ![Before Code Coverage](https://github.com/carsonblee/SSW567/blob/main/hw04/hw04b/Before/CodeCoverageBefore.png)     |   ![After Code Coverage](https://github.com/carsonblee/SSW567/blob/main/hw04/hw04b/After/CodeCoverageAfter.png) |
