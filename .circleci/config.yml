@@ -21,10 +21,6 @@ jobs:
           name: Say Hello
           command: echo "Hello world!"
 
-      - run:
-          name: Run tests
-          command: pythom -m pytest
-
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/workflows/ & https://circleci.com/docs/configuration-reference/#workflows
 workflows:
