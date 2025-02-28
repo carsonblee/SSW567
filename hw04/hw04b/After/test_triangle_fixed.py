@@ -1,6 +1,5 @@
 """
 @author: Carson Lee
-These are the old test cases prior to using any static code analysis.
 """
 import unittest
 import triangle_classification_fixed
